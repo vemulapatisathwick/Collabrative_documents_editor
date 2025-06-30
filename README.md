@@ -72,3 +72,9 @@ This is the backend for the Collab Document Editor project. It is built using No
 ## License
 
 This project is licensed under the MIT License.
+
+
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8db5ee82-865a-47d9-91fa-24ac7b145fe2)
