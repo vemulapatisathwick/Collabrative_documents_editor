@@ -1,5 +1,20 @@
 # Collab Document Editor Backend
 
+
+COMPANY NAME:CODTECH IT SOLUTIONS
+
+"NAME":VEMULAPATI SATHWICK
+
+"INTERN ID"::CT04DN1654
+
+"DOMAIN":FULL STACK WEB DEVELOPMENT
+
+"DURATION": 4 WEEKS
+
+"MENTOR": NEELA SANTOSH
+
+
+
 This is the backend for the Collab Document Editor project. It is built using Node.js and Express, and it connects to a MongoDB or PostgreSQL database for data storage.
 
 ## Setup Instructions
